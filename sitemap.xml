@@ -367,14 +367,14 @@
   </url>
   
   <url>
-    <loc>https://sxyugao.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
+    <loc>https://sxyugao.top/tags/%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://sxyugao.top/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>https://sxyugao.top/tags/%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -402,6 +402,13 @@
   </url>
   
   <url>
+    <loc>https://sxyugao.top/tags/STL/</loc>
+    <lastmod>2023-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://sxyugao.top/tags/HGAME/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -409,7 +416,7 @@
   </url>
   
   <url>
-    <loc>https://sxyugao.top/tags/STL/</loc>
+    <loc>https://sxyugao.top/tags/HWS/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -424,13 +431,6 @@
   
   <url>
     <loc>https://sxyugao.top/tags/PHP/</loc>
-    <lastmod>2023-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://sxyugao.top/tags/HWS/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -565,13 +565,6 @@
   </url>
   
   <url>
-    <loc>https://sxyugao.top/categories/CTF/HGAME/</loc>
-    <lastmod>2023-07-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://sxyugao.top/categories/CTF/Web/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -579,7 +572,7 @@
   </url>
   
   <url>
-    <loc>https://sxyugao.top/categories/CTF/Hackergame/</loc>
+    <loc>https://sxyugao.top/categories/CTF/HGAME/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -587,6 +580,13 @@
   
   <url>
     <loc>https://sxyugao.top/categories/CTF/HWS/</loc>
+    <lastmod>2023-07-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://sxyugao.top/categories/CTF/Hackergame/</loc>
     <lastmod>2023-07-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
